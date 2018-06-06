@@ -13,5 +13,9 @@ namespace MyFirstGitHubApp.Controllers
         {
             return View();
         }
+        public ActionResult Action()
+        {
+            return View();
+        }
     }
 }
